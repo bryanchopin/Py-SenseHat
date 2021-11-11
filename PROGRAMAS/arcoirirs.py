@@ -5,7 +5,7 @@
 
 from colorsys import hsv_to_rgb
 from time import sleep
-from sense_emu import SenseHat
+from sense_hat import SenseHat
 
 # Hues represent the spectrum of colors as values between 0 and 1. The range
 # is circular so 0 represents red, ~0.2 is yellow, ~0.33 is green, 0.5 is cyan,
